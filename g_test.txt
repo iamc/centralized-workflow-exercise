@@ -1,0 +1,1 @@
+I created a conflict in a file to merge
